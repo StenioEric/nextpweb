@@ -15,7 +15,7 @@ export function CarrosInfo() {
           borderCollapse: "collapse",
           textAlign: "center",
         }}
-        border="1"
+        // border="1"
       >
         <thead>
           <tr style={{ backgroundColor: "#f4f4f4" }}>

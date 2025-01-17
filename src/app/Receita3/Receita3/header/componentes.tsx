@@ -1,10 +1,10 @@
-import Link from 'next/link'
+import Link from 'next/link';
 
-export function Header({ subtopico }) {
+export function Header({ subtopico }: { subtopico: string }) {
   return (
     <header
       style={{
-        backgroundColor: "#333",
+        backgroundColor: "#111",
         color: "#fff",
         padding: "10px 0",
         textAlign: "center",
